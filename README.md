@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://img.shields.io/badge/VITALINABELOVA-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ## I'm a student of course "QA Engineer" 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
