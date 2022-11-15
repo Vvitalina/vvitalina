@@ -1,18 +1,8 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
+## I'm a student of course "QA Engineer" 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?](https://www.youtube.com/watch?v=TF_MEwZx_u0)
-- [Как написать правильный  отчёт о дефекте &lpar;баг репорт&rpar;?](https://www.youtube.com/watch?v=faWdtll7KNc)
-- [QASE - обзор TMS для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Cj6jHmsnWiU)
-- [GitHub &lpar;git&rpar; для тестировщика &lpar;QA&rpar;. Полный курс](https://www.youtube.com/watch?v=GviyJKK6yD8)
-- [Организация процесса тестирования &lpar;QA&rpar; на пальцах](https://www.youtube.com/watch?v=LoQUf0UREZ0)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
