@@ -1,4 +1,4 @@
-[![Header](https://img.shields.io/badge/VITALINABELOVA-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/VITALINABELOVA-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ## I'm a student of course "QA Engineer" 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
